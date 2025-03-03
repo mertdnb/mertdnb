@@ -77,7 +77,7 @@
  
  <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertdnb&theme=material-palenight&hide_border=false" alt="mertdnb" width="55%" />
   </a>
 </p>
  
