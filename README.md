@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mert&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20Lead%20Developer%20%40%20Netco%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mert&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20Lead%20Developer%20%7C%20Netco%20Yaz%C4%B1l%C4%B1m&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
 <div align="center">
   <a href="https://github.com/mertdnb">
