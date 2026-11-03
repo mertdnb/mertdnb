@@ -56,11 +56,11 @@ My work brings together product development and digital solutions, with Vesors a
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://digital.vesors.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.vesors.com/vesors-logo-light.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.vesors.com/vesors-logo.png" />
-  <img src="https://www.vesors.com/vesors-logo.png" width="110" alt="Vesors Digital logo" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://digital.vesors.com/_astro/vesors-logo-dark.CY030iep_MnVzE.webp" />
+  <source media="(prefers-color-scheme: light)" srcset="https://digital.vesors.com/_astro/vesors-logo.BWwCe7EV_Z26Y8GX.webp" />
+  <img src="https://digital.vesors.com/_astro/vesors-logo.BWwCe7EV_Z26Y8GX.webp" width="220" alt="Vesors Digital logo" />
 </picture></a>
-<h2>VESORS DIGITAL</h2>
+<h2>VESORS <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=DIGITAL&fontSize=29&fontColor=0088CC&fontAlignY=58" width="135" height="38" alt="DIGITAL" /></h2>
 <p><b>DIGITAL MARKETING & GROWTH</b></p>
 <br /><br />
 <b>Build your digital presence.</b>
